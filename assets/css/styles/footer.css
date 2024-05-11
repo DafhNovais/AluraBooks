@@ -1,0 +1,11 @@
+.rodape {
+    padding: 1em 1.5em;
+    background-color: var(--cor-de-fundo-2);
+    border-top: 1px solid var(--cinza);
+}
+
+.rodape_titulo {
+    color: var(--azul);
+    font-weight: 500;
+    line-height: 24px;
+}
